@@ -1,7 +1,7 @@
 # Systolic_Matrix_Multiply
 
 ### Overview
-Systolic matrix multiplication is used all over for its ability to proccess large matrices. This is my attempt to try making one :)
+Systolic matrix multiplication is used all over for its ability to proccess large matrices. This is my attempt to try making one :). I have higlighted a few of the main functions and what they do. 
 
  
 ### 1. **Control Module**
